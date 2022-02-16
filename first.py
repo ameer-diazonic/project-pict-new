@@ -1,5 +1,5 @@
-# First : Addition
+# First : Division
 a = 2
 b = 4
-add = a+b
-print(add)
+div = a-b
+print(div)
